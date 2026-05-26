@@ -1,0 +1,6 @@
+{
+  "name": "AI Hub",
+  "description": "এআই হাব (AI Hub): টেলিগ্রাম চ্যানেল কন্ট্রোল, ছবি থেকে প্রম্পট, প্রম্পট থেকে ছবি, অল-ইন-ওয়ান ট্রান্সলেটর, পোস্ট মেকার, মিউজিক মেকার এবং প্রোফাইল ম্যানেজমেন্ট ড্যাশবোর্ড।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
